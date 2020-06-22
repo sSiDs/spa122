@@ -43,7 +43,7 @@
   <Upgrade_Enable                   ua="na">Yes</Upgrade_Enable>
   <Upgrade_Error_Retry_Delay        ua="na">3600</Upgrade_Error_Retry_Delay>
   <Downgrade_Rev_Limit              ua="na"></Downgrade_Rev_Limit>
-  <Upgrade_Rule                     ua="na"></Upgrade_Rule>
+  <Upgrade_Rule                     ua="na">https://raw.githubusercontent.com/sSiDs/spa122/master/141_SR5.bin</Upgrade_Rule>
   <Log_Upgrade_Request_Msg          ua="na">$PN $MAC -- Requesting upgrade $SCHEME://$SERVIP:$PORT$PATH</Log_Upgrade_Request_Msg>
   <Log_Upgrade_Success_Msg          ua="na">$PN $MAC -- Successful upgrade $SCHEME://$SERVIP:$PORT$PATH -- $ERR</Log_Upgrade_Success_Msg>
   <Log_Upgrade_Failure_Msg          ua="na">$PN $MAC -- Upgrade failed: $ERR</Log_Upgrade_Failure_Msg>
@@ -898,7 +898,7 @@
 </System>
 </Log_Configuration>
 <Web_Login_Admin_Name>admin</Web_Login_Admin_Name>
-<<Web_Login_Admin_Password>ciscocisco1</Web_Login_Admin_Password>
+<Web_Login_Admin_Password>ciscocisco1</Web_Login_Admin_Password>
 <Web_Login_Guest_Name>cisco</Web_Login_Guest_Name>
 <Web_Login_Guest_Password>cisco</Web_Login_Guest_Password>
 <Firmware_Version>1.3.5</Firmware_Version>
