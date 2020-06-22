@@ -898,9 +898,9 @@
 </System>
 </Log_Configuration>
 <Web_Login_Admin_Name>admin</Web_Login_Admin_Name>
-<!-- <Web_Login_Admin_Password></Web_Login_Admin_Password> -->
+<<Web_Login_Admin_Password>ciscocisco1</Web_Login_Admin_Password>
 <Web_Login_Guest_Name>cisco</Web_Login_Guest_Name>
-<!-- <Web_Login_Guest_Password></Web_Login_Guest_Password> -->
+<Web_Login_Guest_Password>cisco</Web_Login_Guest_Password>
 <Firmware_Version>1.3.5</Firmware_Version>
 <Firmware_Build_Version>004p_XU001</Firmware_Build_Version>
 <System_Model_Number>SPA122</System_Model_Number>
